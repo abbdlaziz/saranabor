@@ -107,69 +107,69 @@
       <div class="portfolio-items">
         <div class="col-sm-6 col-md-3 col-lg-3 graphic">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/1.jpg" title="Digunakan untuk pengeboran umum. Matriks logam bubuk memastikan ketahanan abrasi yang kuat dan umur pemakaian yang lama. Desain geometrik canggih diadopsi untuk penetrasi cepat. Ukuran standar 56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/1.JPG" title="Digunakan untuk pengeboran umum. Matriks logam bubuk memastikan ketahanan abrasi yang kuat dan umur pemakaian yang lama. Desain geometrik canggih diadopsi untuk penetrasi cepat. Ukuran standar 56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>Non Coring Core Drill Bits</h4>
               </div>
-              <img src="img/portfolio/1.jpg" class="img-responsive" alt="Digunakan untuk pengeboran umum. Matriks logam bubuk memastikan ketahanan abrasi yang kuat dan umur pemakaian yang lama. Desain geometrik canggih diadopsi untuk penetrasi cepat.Ukuran standar 56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
+              <img src="img/portfolio/1.JPG" class="img-responsive" alt="Digunakan untuk pengeboran umum. Matriks logam bubuk memastikan ketahanan abrasi yang kuat dan umur pemakaian yang lama. Desain geometrik canggih diadopsi untuk penetrasi cepat.Ukuran standar 56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 illustration">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/2.jpg" title="Polycrystalline diamond bits telah terbukti berhasil dalam formasi konsolidasi lunak hingga menengah. Mereka banyak digunakan dalam eksplorasi batu bara dan untuk pengeboran lubang terbuka ke zona menarik sebelum mulai pengeboran inti. Drainase gas metana di tambang batubara dan pengeboran horizontal untuk teknologi parit kurang adalah aplikasi penting untuk produk ini.
+            <div class="hover-bg"> <a href="img/portfolio/2.JPG" title="Polycrystalline diamond bits telah terbukti berhasil dalam formasi konsolidasi lunak hingga menengah. Mereka banyak digunakan dalam eksplorasi batu bara dan untuk pengeboran lubang terbuka ke zona menarik sebelum mulai pengeboran inti. Drainase gas metana di tambang batubara dan pengeboran horizontal untuk teknologi parit kurang adalah aplikasi penting untuk produk ini.
 Ukuran standar 55, 65, 76, 96, 99 & 123mm Diameter" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>PCD Non Core Bits</h4>
               </div>
-              <img src="img/portfolio/2.jpg" class="img-responsive" alt="Polycrystalline diamond bits telah terbukti berhasil dalam formasi konsolidasi lunak hingga menengah. Mereka banyak digunakan dalam eksplorasi batu bara dan untuk pengeboran lubang terbuka ke zona menarik sebelum mulai pengeboran inti. Drainase gas metana di tambang batubara dan pengeboran horizontal untuk teknologi parit kurang adalah aplikasi penting untuk produk ini.
+              <img src="img/portfolio/2.JPG" class="img-responsive" alt="Polycrystalline diamond bits telah terbukti berhasil dalam formasi konsolidasi lunak hingga menengah. Mereka banyak digunakan dalam eksplorasi batu bara dan untuk pengeboran lubang terbuka ke zona menarik sebelum mulai pengeboran inti. Drainase gas metana di tambang batubara dan pengeboran horizontal untuk teknologi parit kurang adalah aplikasi penting untuk produk ini.
 Ukuran standar 55, 65, 76, 96, 99 & 123mm Diameter"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 graphic">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/3.jpg" title="
+            <div class="hover-bg"> <a href="img/portfolio/3.JPG" title="
 Helical Pad Reamer konsep 4 in 1 dengan menggabungkan berlian alami dan tungsten carbide set dalam campuran berlian matriks diresapi. Formula ini memenuhi kriteria sebagian besar aplikasi pengeboran dari yang lebih kasar hingga formasi berbutir halus yang ditemukan di seluruh dunia. Ukuran standar 58, 68, 76, 96, 99 & 115mm Diameter" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>Reamer</h4>
               </div>
-              <img src="img/portfolio/3.jpg" class="img-responsive" alt="Helical Pad Reamer konsep 4 in 1 dengan menggabungkan berlian alami dan tungsten carbide set dalam campuran berlian matriks diresapi. Formula ini memenuhi kriteria sebagian besar aplikasi pengeboran dari yang lebih kasar hingga formasi berbutir halus yang ditemukan di seluruh dunia. Ukuran standar 58, 68, 76, 96, 99 & 115mm Diameter"> </a> </div>
+              <img src="img/portfolio/3.JPG" class="img-responsive" alt="Helical Pad Reamer konsep 4 in 1 dengan menggabungkan berlian alami dan tungsten carbide set dalam campuran berlian matriks diresapi. Formula ini memenuhi kriteria sebagian besar aplikasi pengeboran dari yang lebih kasar hingga formasi berbutir halus yang ditemukan di seluruh dunia. Ukuran standar 58, 68, 76, 96, 99 & 115mm Diameter"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 graphic">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/4.jpg" title="Biasanya dipasok dengan tabung dalam split baja; namun tabung dalam plastik (non-split) tersedia dalam ukuran NMLC dan stainless dan hard split split chrome dapat disediakan untuk sebagian besar ukuran lainnya. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/4.JPG" title="Biasanya dipasok dengan tabung dalam split baja; namun tabung dalam plastik (non-split) tersedia dalam ukuran NMLC dan stainless dan hard split split chrome dapat disediakan untuk sebagian besar ukuran lainnya. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4> NMLC Part.</h4>
               </div>
-              <img src="img/portfolio/4.jpg" class="img-responsive" alt="Biasanya dipasok dengan tabung dalam split baja; namun tabung dalam plastik (non-split) tersedia dalam ukuran NMLC dan stainless dan hard split split chrome dapat disediakan untuk sebagian besar ukuran lainnya.Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
+              <img src="img/portfolio/4.JPG" class="img-responsive" alt="Biasanya dipasok dengan tabung dalam split baja; namun tabung dalam plastik (non-split) tersedia dalam ukuran NMLC dan stainless dan hard split split chrome dapat disediakan untuk sebagian besar ukuran lainnya.Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 illustration">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/5.jpg" title="Kami memproduksi dan menyimpan berbagai peralatan pengeboran: ini termasuk inti barel dari TT56 hingga 8C, (yang termasuk ukuran paling umum N, NMLC & H) itu juga mencakup semua penggantian dan suku cadang yang diperlukan untuk semua ukuran barel. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/5.JPG" title="Kami memproduksi dan menyimpan berbagai peralatan pengeboran: ini termasuk inti barel dari TT56 hingga 8C, (yang termasuk ukuran paling umum N, NMLC & H) itu juga mencakup semua penggantian dan suku cadang yang diperlukan untuk semua ukuran barel. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>Core Barrel</h4>
               </div>
-              <img src="img/portfolio/5.jpg" class="img-responsive" alt="Kami memproduksi dan menyimpan berbagai peralatan pengeboran: ini termasuk inti barel dari TT56 hingga 8C, (yang termasuk ukuran paling umum N, NMLC & H) itu juga mencakup semua penggantian dan suku cadang yang diperlukan untuk semua ukuran barel. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
+              <img src="img/portfolio/5.JPG" class="img-responsive" alt="Kami memproduksi dan menyimpan berbagai peralatan pengeboran: ini termasuk inti barel dari TT56 hingga 8C, (yang termasuk ukuran paling umum N, NMLC & H) itu juga mencakup semua penggantian dan suku cadang yang diperlukan untuk semua ukuran barel. Ukuran standar 	56mm, 59mm, 75mm, 89mm, 91mm, 108mm, 110mm, 127mm, 131mm, 150mm, 170mm, 219mm, 275mm"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 photography">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/6.jpg" title="Impregnated Core Bits merupakan mata bor mineral dan batu bara dimana matriks yang dibawah kondisi tertentu dapat mengikis pada tingkat maksimum. Sebagai diamond aktif yang menjadi tumpul, mereka akan dirilis dan diamond baru yang tajam akan melanjutkan pemotongan. Ukuran standar 59, 76, 93, 112, 132, 152 mm " data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/6.JPG" title="Impregnated Core Bits merupakan mata bor mineral dan batu bara dimana matriks yang dibawah kondisi tertentu dapat mengikis pada tingkat maksimum. Sebagai diamond aktif yang menjadi tumpul, mereka akan dirilis dan diamond baru yang tajam akan melanjutkan pemotongan. Ukuran standar 59, 76, 93, 112, 132, 152 mm " data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>Impregnated core Bits</h4>
               </div>
-              <img src="img/portfolio/6.jpg" class="img-responsive" alt="Impregnated Core Bits merupakan mata bor mineral dan batu bara dimana matriks yang dibawah kondisi tertentu dapat mengikis pada tingkat maksimum. Sebagai diamond aktif yang menjadi tumpul, mereka akan dirilis dan diamond baru yang tajam akan melanjutkan pemotongan. Ukuran standar 59, 76, 93, 112, 132, 152 mm"> </a> </div>
+              <img src="img/portfolio/6.JPG" class="img-responsive" alt="Impregnated Core Bits merupakan mata bor mineral dan batu bara dimana matriks yang dibawah kondisi tertentu dapat mengikis pada tingkat maksimum. Sebagai diamond aktif yang menjadi tumpul, mereka akan dirilis dan diamond baru yang tajam akan melanjutkan pemotongan. Ukuran standar 59, 76, 93, 112, 132, 152 mm"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 photography">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/7.jpg" title="
+            <div class="hover-bg"> <a href="img/portfolio/7.JPG" title="
 Di Saranabor kami memproduksi dan menyimpan berbagai suku cadang dan peralatan untuk melayani industri pengeboran" data-lightbox-gallery="gallery1">
               <div class="hover-text">
                 <h4>Core Barrel Spares</h4>
               </div>
-              <img src="img/portfolio/7.jpg" class="img-responsive" alt="Di Saranabor kami memproduksi dan menyimpan berbagai suku cadang dan peralatan untuk melayani industri pengeboran"> </a> </div>
+              <img src="img/portfolio/7.JPG" class="img-responsive" alt="Di Saranabor kami memproduksi dan menyimpan berbagai suku cadang dan peralatan untuk melayani industri pengeboran"> </a> </div>
           </div>
         </div>
        </div>
